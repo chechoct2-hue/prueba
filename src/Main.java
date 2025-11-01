@@ -1,5 +1,13 @@
+
 import java.util.ArrayList;
 import java.util.Scanner;
+
+/* ----------------------------------------
+ Primera revision Ejercicios, se dejan par de tips.
+ NOTA:Revisar esta funcion que parece en gris
+
+ 1/11/2025 @Andres Gonzalez
+------------------------------------------- */
 
 public class Main {
 
@@ -34,7 +42,6 @@ public class Main {
         for (Alumno a : listaAlumnos){
             a.mostrarNombre();
 
-
         }
     }
-    }
+}
